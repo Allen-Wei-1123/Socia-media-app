@@ -28,7 +28,7 @@
   Like
  </h2>
 <p>
-  <img src = "gifs/like.gif"/>
+  <img src = "gifs/Like.gif"/>
 </p>
 
 <h2>
