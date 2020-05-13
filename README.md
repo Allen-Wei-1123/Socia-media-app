@@ -4,37 +4,45 @@
 </h1>
 
 <h2>
+  Overview
+ </h2>
+<p>
+  <img src = "gifs/look.gif"/>
+</p>
+
+<h2>
   Register
 </h2>
 <p>
-  https://www.youtube.com/watch?v=G3kFLCL5Oyg
+  <img src = "gifs/register.gif"/>
 </p>
 
 <h2>
   Post
  </h2>
 <p>
-  https://www.youtube.com/watch?v=ucRRBLgZRbs&feature=youtu.be
+  <img src = "gifs/post.gif"/>
 </p>
 
 <h2>
   Like
  </h2>
 <p>
-  https://www.youtube.com/watch?v=wiLPHa7CBug&feature=youtu.be
+  <img src = "gifs/like.gif"/>
 </p>
 
 <h2>
   Follow
  </h2>
 <p>
-  https://www.youtube.com/watch?v=ZvB4YCTNToA&feature=youtu.be
+  <img src = "gifs/follow.gif"/>
 </p>
 
 <h2>
   Unfollow
  </h2>
 <p>
-  https://www.youtube.com/watch?v=ZvB4YCTNToA
+  <img src = "gifs/unfollow.gif"/>
 </p>
+
 
