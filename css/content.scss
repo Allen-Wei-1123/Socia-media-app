@@ -1,0 +1,214 @@
+@charset 'utf-8';
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+*{
+    margin:0;
+    padding: 0;
+}
+.content-view{
+   
+    width: 100%;
+    overflow: hidden;
+    min-height: 12000px;
+    padding-bottom: 20px;
+    background-color:#F8F8F8;
+    float:left;
+}
+
+.posts{
+    float:left;
+    margin-left: 80px;;
+    
+    height: 1000px;
+    margin-top: 20px;
+    
+    width: 600px;
+}
+
+.thebox{
+    border-radius: 5px;
+    overflow: hidden;;
+    min-height: 250px;
+    width: 100%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.thebox img{
+    height: 40px;
+    width: 40px;
+    margin-top: 4px;
+    margin-left: 20px;
+    border-radius: 50%;
+    float:left
+}
+.thebox p{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    
+}
+.topview{
+    width: 100%;
+    height: 50px;
+    background-color: lightskyblue;
+
+}
+
+.topview a{
+    line-height: 50px;
+    margin-left: 10px;
+
+}
+
+.like-comment{
+    height: 40px;
+    width: 100%;
+    margin: 20px 20px 0 20px;
+    
+}
+
+.comment{
+    width: 100%;
+    bottom:0px;
+    height: 50px;
+    position: absolute;
+    background-color: lightskyblue;;
+}
+
+.like-div{
+    float: left;
+    height: 100%;
+    width: 30px;;
+    
+    cursor: pointer;
+}
+.like-div i{
+    
+    margin: 0 auto;
+}
+.comment-div{
+    float: left;
+    
+    margin-left: 20px;
+    height: 100%;
+    width: 30px;
+    cursor: pointer;
+}
+//friends view
+.friends{
+    float:right;
+    margin-top: 20px;
+    margin-right: 50px;
+    width: 500px;
+    overflow: hidden;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+}
+
+
+.profile-pic{
+    width: 100%;
+    height: 120px;
+    
+    padding-top: 14px;
+}
+
+.profile-pic img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin:  0 auto;
+    display: block;
+}
+
+.accordion-tbl{
+    width: 100%;
+    //height: 100%;;
+    overflow: hidden;
+}
+
+.accordion{
+    height: 100%;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.accordion-item{
+    width: 100%;
+    overflow:hidden;
+    border-bottom: 1px solid #D0D0D0;
+}
+
+.accordion-header{
+    height: 50px;
+    
+}
+
+.accordion-button{
+    font-size:25px;
+    font-family: 'Acme', sans-serif;
+}
+
+.accordion-panel{
+    overflow: hidden;
+    width: 100%;
+    
+   
+}
+.newview{
+    width: 100%;
+    overflow: hidden;;
+    
+}
+
+
+
+//personal profile
+#pprofile-mainviews{
+    width: 100%;
+
+    overflow: hidden;;
+}
+
+#pprofile-mainviews{
+    height: 100px;
+}
+.nameview{
+    margin-bottom: 6px;
+}
+.emailview,.nameview{
+    width: 100%;
+    overflow: hidden;
+}
+
+//image-gallery
+.img-gallery{
+    width: 100%;
+    height: 200px;
+    
+    margin-top: 20px;
+}
+.slider-img{
+    height: 100%;
+    width: 100%;
+    
+}
+.img-div{
+    height: 200px;
+    
+    
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.img-div img{
+    margin-top: 20px;
+}
